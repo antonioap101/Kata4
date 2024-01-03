@@ -1,4 +1,4 @@
-package software.ulpgc.view;
+package software.ulpgc.kata4.view;
 
 import javax.swing.*;
 import java.awt.*;

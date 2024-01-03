@@ -1,4 +1,4 @@
-package software.ulpgc.model;
+package software.ulpgc.kata4.model;
 
 import java.io.BufferedReader;
 import java.io.File;

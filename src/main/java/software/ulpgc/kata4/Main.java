@@ -1,9 +1,10 @@
-package software.ulpgc;
+package software.ulpgc.kata4;
 
-import software.ulpgc.model.BMIHistogramCalculator;
-import software.ulpgc.model.CsvFilePersonLoader;
-import software.ulpgc.model.Person;
-import software.ulpgc.view.MainFrame;
+
+import software.ulpgc.kata4.model.BMIHistogramCalculator;
+import software.ulpgc.kata4.model.CsvFilePersonLoader;
+import software.ulpgc.kata4.model.Person;
+import software.ulpgc.kata4.view.MainFrame;
 
 import java.util.List;
 import java.util.Map;
